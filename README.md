@@ -14,4 +14,3 @@ well,if look closely you can still see bat's eyes
 if you want to remove the bat,I also have a very simple datapack,I will upload later,you should be able to see on my homepage
 
 this resourcepack is theoretically common to all versions,if you encounter a version cannot be used, you can try to adapt it yourself,its simple, or submit it to github,I will adapt it(maybe XD
-

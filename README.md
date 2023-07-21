@@ -16,3 +16,5 @@ so, bats still exist, if you want to remove bats from your world, please check o
 this resourcepack should be universally compatible with all versions. if it doesn't work in some versions, you can try to fix it yourself.
 
 if you don't know how or don't want to modify it yourself, you can submit an issue on my GitHub. If I have time, I'll try to create a fix. Well, that's the plan!
+
+Effect：https://youtu.be/imQJT0pZHlY

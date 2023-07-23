@@ -12,5 +12,5 @@ the function of this resourcepack is straightforward – it simply removes textu
 so, bats still exist, if you want to remove bats from your world, please check out this [datapack](https://github.com/Oururis/Batk)  
 this resourcepack should be universally compatible with all versions. if it doesn't work in some versions, you can try to fix it yourself  
 if you don't know how or don't want to modify it yourself, you can submit an issue on my GitHub. If I have time, I'll try to create a fix. Well, that's the plan!  
-[demo](https://youtu.be/imQJT0pZHlY)  
+[demo](https://youtu.be/8s5BewAQCNk))  
 [Download](https://github.com/Oururis/IBat/releases)

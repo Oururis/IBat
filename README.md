@@ -8,7 +8,7 @@
 [下载](https://github.com/Oururis/IBat/releases)
 ## Minecraft JAVA Edition resourcepack  
 can be modified for use in Bedrock Edition as well  
-the function of this resourcepack is straightforward – it simply removes textures and sounds (BKG2023.7.24 delete eyes)
+the function of this resourcepack is straightforward – it simply removes textures and sounds (BKG2023.7.24 delete eyes)  
 so, bats still exist, if you want to remove bats from your world, please check out this [datapack](https://github.com/Oururis/Batk)  
 this resourcepack should be universally compatible with all versions. if it doesn't work in some versions, you can try to fix it yourself  
 if you don't know how or don't want to modify it yourself, you can submit an issue on my GitHub. If I have time, I'll try to create a fix. Well, that's the plan!  
